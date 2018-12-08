@@ -2,7 +2,7 @@ INSERT INTO `ROLLINGSTONE_USER`
 (
 `first_name`,
 `last_name`,
-`mmeber_type`,
+`member_type`,
 `registration_date`,
 `sex`,
 `user_name`,
